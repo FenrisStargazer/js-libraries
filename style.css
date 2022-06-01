@@ -1,4 +1,8 @@
-/* My css stuff */
 body{
-    background-color: orange;
+  height: 100vh;
+  width: 100vw;
+  display: grid;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(5, 1fr);
 }
